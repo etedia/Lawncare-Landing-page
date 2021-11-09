@@ -1,0 +1,104 @@
+
+ 
+ 
+ .fullpage{
+     margin: 0px 150px;
+ }
+ 
+ .firstpage{
+    background-image: url(page.jpg);
+    height: 600px;
+ }
+ #topword{
+     margin-left: 30px;
+     padding-top: 20px;
+     color:white;
+ }
+
+.firstpageleft{
+    width: 300px;
+    margin: 150px 0px 0px 120px;
+    color: white;
+}
+ #button{
+     margin-left: 30px;
+     border: none;
+     color: white;
+}
+
+.firstpageright{
+    float: right;
+    text-align:left;
+    margin: -280px 120px 0px 0px;
+    padding: 0px 20px 20px 20px;
+    background-color: antiquewhite;
+    height: 400px;
+}
+
+.firstpageright input{
+    width: 300px;
+    height: 20px;
+}
+#topright{
+    text-align: center;
+  height: 120px;
+}
+#topright p{
+   margin-top: -20px;
+   font-size: 20px;
+}
+.firstpageright button{
+    margin: 50px 0px 0px 70px;
+    width: 200px;
+    height: 30px;
+    background-color: darkorange;
+    border: none;
+    color: white;
+}
+
+.secondpart{
+    background-color: darkslateblue;
+    height: 920px;
+}
+
+.rows{
+    text-align: left;
+    padding: 50px 20px 0px 20px;
+
+}
+
+td{
+    background-color: darkgray;
+}
+
+table{
+    border-spacing: 4em .0em;
+}
+#pix{
+    margin-left: 100px;
+}
+.thirdpage{
+    margin-top: 150px;
+    
+}
+.thirdpage h1{
+text-align: center;
+}
+   #third{
+margin: -180px 0px 0px 500px;
+width: 400px;
+ }
+
+ #pix2{
+     float: right;
+     margin: -200px 100px 0px 0px;
+ }
+
+ .fourthpage{
+     /* float: right; */
+ }
+ #fourth{
+ margin: 300px 0px 0px 200px;
+ padding-bottom: -300px;
+ width: 400px;
+ }
